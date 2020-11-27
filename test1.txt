@@ -1,1 +1,2 @@
-Welcome To GIT 
+Welcome To GIT
+This is the Version Control Tool
